@@ -86,6 +86,10 @@ A partir de la información estructurada en el paso anterior, elabora un Diagram
 
 <img width="570" height="376" alt="image" src="https://github.com/user-attachments/assets/ed71b66c-7e7f-4c80-a185-7be645fc32b9" />
 
+## **Diagrama completo**
+
+<img width="1518" height="600" alt="image" src="https://github.com/user-attachments/assets/0935c915-56d9-4f9d-89b4-d8adc5c757a1" />
+
 ## **Paso 4: Instanciación (de la teoría a la realidad)**
 
 El diagrama de clases funciona como un molde estructural. A continuación, define instancias en memoria asignando valores concretos a los atributos de cada objeto para ejemplificar su estado.
