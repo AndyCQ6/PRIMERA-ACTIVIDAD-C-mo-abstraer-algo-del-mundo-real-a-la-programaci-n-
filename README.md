@@ -3,7 +3,7 @@
 
 NOMBRE: Corro Quezada Andy
 
-MATRICULA: S25018136
+MATRÍCULA: S25018136
 
 **Objetivo:** Comprender la estructura de un sistema orientado a objetos identificando clases, atributos y métodos, diferenciando el concepto abstracto (Clase) de su implementación (Objeto).
 
