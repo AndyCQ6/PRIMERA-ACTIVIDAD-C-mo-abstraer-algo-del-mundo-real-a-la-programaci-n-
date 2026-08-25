@@ -1,5 +1,5 @@
 # Primera actividad
-**Caso de Estudio: Sistema de Scooters Eléctricos**
+**Caso de estudio: Sistema de scooters eléctricos**
 
 NOMBRE: Corro Quezada Andy
 
@@ -7,7 +7,7 @@ MATRICULA: S25018136
 
 **Objetivo:** Comprender la estructura de un sistema orientado a objetos identificando clases, atributos y métodos, diferenciando el concepto abstracto (Clase) de su implementación (Objeto).
 
-## **Paso 1: Lectura del Caso de Estudio**
+## **Paso 1: Lectura del caso de estudio**
 
 Lee detenidamente la siguiente descripción del requerimiento para identificar las entidades principales del sistema.
 
@@ -15,7 +15,7 @@ Lee detenidamente la siguiente descripción del requerimiento para identificar l
 >
 > Por otro lado, la entidad **Usuario** se registra con su nombre y mantiene un saldo monetario en su cuenta. El usuario puede realizar dos acciones operativas: agregar más saldo a su cuenta y rentar un scooter específico."
 
-## **Paso 2: Análisis y Diccionario de Clases**
+## **Paso 2: Análisis y diccionario de clases**
 
 Completa la siguiente estructura identificando los atributos y métodos. Recuerda que los sustantivos suelen representar Clases o Atributos, mientras que los verbos representan Métodos. Utiliza los modificadores de acceso y tipos de datos adecuados en cada línea vacía.
 
@@ -24,15 +24,15 @@ ENTIDAD 1
 SCOOTER
 ATRIBUTOS
 
-- NUMERO DE IDENTIFICACION
-- NIVEL DE BATERIA
-- ESTADO LOGICO, ESTA OCUPADO O NO
+- NÚMERO DE IDENTIFICACIÓN
+- NIVEL DE BATERÍA
+- ESTADO LÓGICO, ESTÁ OCUPADO O NO
 
-METODOS
+MÉTODOS
 
 - DESBLOQUEARSE PARA INICIAR VIAJE
 - TERMINAR SU VIAJE
-- RECARGAR SU BATERIA AL 100
+- RECARGAR SU BATERÍA AL 100
 
 ENTIDAD 2
 
@@ -74,7 +74,7 @@ METODOS
 - `+ agregarSaldo(monto: double) : void` (agregar saldo)
 - `+ rentarScooter(scooter: Scooter) : boolean` (rentar scooter)
 
-## **Paso 3: Diseño del Diagrama de Clases UML**
+## **Paso 3: Diseño del diagrama de clases UML**
 
 A partir de la información estructurada en el paso anterior, elabora un Diagrama de Clases formal. Asegúrate de incluir los tres bloques estándar (Nombre de la clase, Atributos y Métodos) y adjuntar la captura o imagen del diagrama resultante en tu documento.
 
@@ -86,7 +86,7 @@ A partir de la información estructurada en el paso anterior, elabora un Diagram
 
 <img width="570" height="376" alt="image" src="https://github.com/user-attachments/assets/ed71b66c-7e7f-4c80-a185-7be645fc32b9" />
 
-## **Paso 4: Instanciación (De la Teoría a la Realidad)**
+## **Paso 4: Instanciación (de la teoría a la realidad)**
 
 El diagrama de clases funciona como un molde estructural. A continuación, define instancias en memoria asignando valores concretos a los atributos de cada objeto para ejemplificar su estado.
 
@@ -101,7 +101,7 @@ El diagrama de clases funciona como un molde estructural. A continuación, defin
 - `nombre = Andy`
 - `saldo = 135.0`
 
-## **Paso 5: Pregunta de Análisis Lógico**
+## **Paso 5: Pregunta de análisis lógico**
 
 Justifica tu respuesta a la siguiente interrogante lógica basándote en los conceptos de POO estudiados:
 
@@ -109,6 +109,6 @@ Si la Instancia de Usuario 1 intenta ejecutar el método `rentar()` enviando com
 
 Primero se evaluaría un condicional donde se verifique que el usuario tenga el saldo suficiente para rentar el scooter y llamar a la función iniciar viaje que tendrá su propio funcionamiento donde verificará si tiene batería y si está disponible; dependiendo si retorna true o false, el saldo e iniciar viaje se evaluarían con un AND para restarle al saldo del usuario el costo de rentar el scooter y retornar verdadero donde sí se pudo rentar; si no se cumple con el condicional retornará falso.
 
-## SECCION IA
+## SECCIÓN IA
 
-Trate de resolverlo en IntelliJ por mi cuenta y me salió todo mal al querer acceder a datos privados desde otra entidad, muchos errores por practicar en frío, le pasé mi código a la IA para verificar errores y resolverlos por mi propia cuenta; al final encontré más errores por arreglar y ver de mejor manera los objetos en programación.
+Traté de resolverlo en IntelliJ por mi cuenta y me salió todo mal al querer acceder a datos privados desde otra entidad, muchos errores por practicar en frío, le pasé mi código a la IA para verificar errores y resolverlos por mi propia cuenta; al final encontré más errores por arreglar y ver de mejor manera los objetos en programación.
