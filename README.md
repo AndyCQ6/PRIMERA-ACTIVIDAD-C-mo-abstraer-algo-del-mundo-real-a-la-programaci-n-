@@ -115,4 +115,4 @@ Primero se evaluaría un condicional donde se verifique que el usuario tenga el 
 
 ## SECCIÓN IA
 
-Traté de resolverlo en IntelliJ por mi cuenta y me salió todo mal al querer acceder a datos privados desde otra entidad, muchos errores por practicar en frío, le pasé mi código a la IA para verificar errores y resolverlos por mi propia cuenta; al final encontré más errores por arreglar y ver de mejor manera los objetos en programación.
+Durante la realización de esta actividad usé la Inteligencia Artificial como soporte teórico de mis respuestas y diseñador gráfico de mis diagramas UML. Con su ayuda, pude precisar mis explicaciones y dar una mejor presentación general a la actividad.
