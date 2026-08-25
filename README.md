@@ -78,7 +78,7 @@ METODOS
 
 A partir de la información estructurada en el paso anterior, elabora un Diagrama de Clases formal. Asegúrate de incluir los tres bloques estándar (Nombre de la clase, Atributos y Métodos) y adjuntar la captura o imagen del diagrama resultante en tu documento.
 
-**Entidad 1: `Scooter`**
+### **Entidad 1: `Scooter`**
 
 <img width="568" height="438" alt="image" src="https://github.com/user-attachments/assets/7601de56-d7e6-41b4-a1d0-f0725766b3ad" />
 
