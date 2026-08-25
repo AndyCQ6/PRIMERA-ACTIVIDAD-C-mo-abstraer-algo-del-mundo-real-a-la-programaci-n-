@@ -80,11 +80,11 @@ A partir de la información estructurada en el paso anterior, elabora un Diagram
 
 **Entidad 1: `Scooter`**
 
-<img width="567" height="375" alt="image" src="https://github.com/user-attachments/assets/0c9aa688-5a9e-451b-8a81-94e55f00856d" />
+<img width="568" height="438" alt="image" src="https://github.com/user-attachments/assets/7601de56-d7e6-41b4-a1d0-f0725766b3ad" />
 
 ### **Entidad 2: `Usuario`**
 
-<img width="1026" height="673" alt="image" src="https://github.com/user-attachments/assets/440a398f-2ae8-4af5-9464-e4e97023642c" />
+<img width="570" height="376" alt="image" src="https://github.com/user-attachments/assets/ed71b66c-7e7f-4c80-a185-7be645fc32b9" />
 
 ## **Paso 4: Instanciación (De la Teoría a la Realidad)**
 
