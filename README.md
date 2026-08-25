@@ -1,4 +1,4 @@
-# Primera-Actividad
+# Primera actividad
 **Caso de Estudio: Sistema de Scooters Eléctricos**
 
 NOMBRE: Corro Quezada Andy
@@ -80,7 +80,7 @@ A partir de la información estructurada en el paso anterior, elabora un Diagram
 
 **Entidad 1: `Scooter`**
 
-<img width="567" height="438" alt="image" src="https://github.com/user-attachments/assets/93007cb3-ae5c-487e-a67b-2a15cb3a0e79" />
+<img width="567" height="375" alt="image" src="https://github.com/user-attachments/assets/0c9aa688-5a9e-451b-8a81-94e55f00856d" />
 
 ### **Entidad 2: `Usuario`**
 
